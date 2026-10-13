@@ -1,5 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working on full-stack web development projects and continuously improving my software engineering skills.<br><br>👯 I’m looking to collaborate on modern web applications, scalable backend systems, and real-world development projects.<br><br>🤝 I’m looking for help with system design, scalable architectures, and advanced development practices.<br><br>🌱 I’m currently learning advanced MERN stack development, Spring Boot, APIs, and modern software engineering concepts.<br><br>💬 Ask me about HTML, CSS, JavaScript, React.js, Node.js, MongoDB, Java, Python.<br><br>⚡ Fun fact: I enjoy building clean, responsive, and user-focused applications while constantly exploring new technologies.<br>
+👋 About Me
+
+🎓 I'm a final-year B.Tech Computer Science and Engineering student passionate about full-stack development, problem-solving, and building real-world software solutions.
+
+💻 I've built full-stack applications using the MERN stack and Django, focusing on responsive user interfaces, REST APIs, backend development, database management, and practical problem-solving.
+
+🚀 I'm actively seeking software development internships and entry-level opportunities where I can contribute to real-world projects, learn from experienced developers, and grow as a software engineer.
+
+🧠 I'm strengthening my Data Structures and Algorithms (DSA) skills in Java while exploring AI integration, scalable backend systems, and modern software development practices.
+
+🛠️ Tech I'm familiar with: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Django, Python, and Java.
+
+🤝 I'm open to collaborating on full-stack applications, innovative projects, and technology-driven solutions that solve real-world problems.
+
+⚡ Fun fact: I enjoy turning ideas into functional applications and continuously learning new technologies to improve my development skills. <br>
 
 
 ## 🌐 Socials:
